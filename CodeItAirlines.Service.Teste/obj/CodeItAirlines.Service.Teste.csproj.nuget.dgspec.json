@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Service.Teste\\CodeItAirlines.Service.Teste.csproj": {}
+  },
+  "projects": {
+    "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Comuns\\CodeItAirlines.Comuns.csproj": {
+      "restore": {
+        "projectUniqueName": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Comuns\\CodeItAirlines.Comuns.csproj",
+        "projectName": "CodeItAirlines.Comuns",
+        "projectPath": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Comuns\\CodeItAirlines.Comuns.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.CrossCutting\\CodeItAirlines.CrossCutting.csproj": {
+      "restore": {
+        "projectUniqueName": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.CrossCutting\\CodeItAirlines.CrossCutting.csproj",
+        "projectName": "CodeItAirlines.CrossCutting",
+        "projectPath": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.CrossCutting\\CodeItAirlines.CrossCutting.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Domain\\CodeItAirlines.Domain.csproj": {
+                "projectPath": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Domain\\CodeItAirlines.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Data\\CodeItAirlines.Data.csproj": {
+      "restore": {
+        "projectUniqueName": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Data\\CodeItAirlines.Data.csproj",
+        "projectName": "CodeItAirlines.Data",
+        "projectPath": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Data\\CodeItAirlines.Data.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Domain\\CodeItAirlines.Domain.csproj": {
+                "projectPath": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Domain\\CodeItAirlines.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Domain\\CodeItAirlines.Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Domain\\CodeItAirlines.Domain.csproj",
+        "projectName": "CodeItAirlines.Domain",
+        "projectPath": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Domain\\CodeItAirlines.Domain.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Comuns\\CodeItAirlines.Comuns.csproj": {
+                "projectPath": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Comuns\\CodeItAirlines.Comuns.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Service.Teste\\CodeItAirlines.Service.Teste.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Service.Teste\\CodeItAirlines.Service.Teste.csproj",
+        "projectName": "CodeItAirlines.Service.Teste",
+        "projectPath": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Service.Teste\\CodeItAirlines.Service.Teste.csproj",
+        "packagesPath": "C:\\Users\\Yan_C\\.nuget\\packages\\",
+        "outputPath": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Service.Teste\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yan_C\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.CrossCutting\\CodeItAirlines.CrossCutting.csproj": {
+                "projectPath": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.CrossCutting\\CodeItAirlines.CrossCutting.csproj"
+              },
+              "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Domain\\CodeItAirlines.Domain.csproj": {
+                "projectPath": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Domain\\CodeItAirlines.Domain.csproj"
+              },
+              "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Service\\CodeItAirlines.Service.csproj": {
+                "projectPath": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Service\\CodeItAirlines.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Faker.NETCore": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Service\\CodeItAirlines.Service.csproj": {
+      "restore": {
+        "projectUniqueName": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Service\\CodeItAirlines.Service.csproj",
+        "projectName": "CodeItAirlines.Service",
+        "projectPath": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Service\\CodeItAirlines.Service.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.CrossCutting\\CodeItAirlines.CrossCutting.csproj": {
+                "projectPath": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.CrossCutting\\CodeItAirlines.CrossCutting.csproj"
+              },
+              "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Data\\CodeItAirlines.Data.csproj": {
+                "projectPath": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Data\\CodeItAirlines.Data.csproj"
+              },
+              "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Domain\\CodeItAirlines.Domain.csproj": {
+                "projectPath": "Y:\\Projetos\\CodeItAirlines\\CodeItAirlines.Domain\\CodeItAirlines.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

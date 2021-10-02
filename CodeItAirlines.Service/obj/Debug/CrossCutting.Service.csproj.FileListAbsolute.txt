@@ -1,0 +1,9 @@
+Y:\Projetos\CodeItAirlines\CrossCutting.Service\obj\Debug\CrossCutting.Service.csprojAssemblyReference.cache
+Y:\Projetos\CodeItAirlines\CrossCutting.Service\obj\Debug\CrossCutting.Service.Properties.Resources.resources
+Y:\Projetos\CodeItAirlines\CrossCutting.Service\obj\Debug\CrossCutting.Service.csproj.GenerateResource.cache
+Y:\Projetos\CodeItAirlines\CrossCutting.Service\obj\Debug\CrossCutting.Service.csproj.CoreCompileInputs.cache
+Y:\Projetos\CodeItAirlines\CrossCutting.Service\bin\Debug\CrossCutting.Service.dll.config
+Y:\Projetos\CodeItAirlines\CrossCutting.Service\bin\Debug\CrossCutting.Service.dll
+Y:\Projetos\CodeItAirlines\CrossCutting.Service\bin\Debug\CrossCutting.Service.pdb
+Y:\Projetos\CodeItAirlines\CrossCutting.Service\obj\Debug\CrossCutting.Service.dll
+Y:\Projetos\CodeItAirlines\CrossCutting.Service\obj\Debug\CrossCutting.Service.pdb
